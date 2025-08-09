@@ -1,4 +1,4 @@
-## How to connect Neon db in nextjs app. 37
+## How to connect Neon db in nextjs app.
 
 ---
 
